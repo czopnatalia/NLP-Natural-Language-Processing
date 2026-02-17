@@ -19,4 +19,5 @@ The primary goal is to distinguish between texts related to **geology** (e.g., o
 ## 💻 How to Run This Project
 1. Open the `NLP_Czop_Natalia.ipynb` file in **Google Colab** or a local **Jupyter Notebook** environment.
 2. Install the required dependencies:  
-   ```pip install tensorflow scikit-learn numpy
+   ```
+   pip install tensorflow scikit-learn numpy
